@@ -5,9 +5,11 @@ date:   2019-10-23 11:00:00 +0530
 categories: machine learning
 ---
 
-I've been encountering this issue a lot lately, where I get the same output from a DNN/ANN whatever input I pass. I encountered this issue again today and spent around 2-3 hours today trying to figure out what was going wrong. I fixed my issue now and here I am writing this post for my future self.
+I've been encountering this issue a lot lately, where I get the same output from a DNN/ANN whatever input I pass. I solved it previously, but I keep forgetting what I did. I encountered this issue again today and spent around 2-3 hours today trying to figure out what was going wrong. I fixed my issue now and here I am writing this post for my future self.
 
-Here's what worked:
+Here's what may help:
+
+- **Normalize inputs** - Very often this happens when some inputs are huge compared to other inputs. In this case, normalizing of inputs must be done.
 
 - **Reduce the learning rate** - Sometimes if the learning rate is too high, the loss may jump far and into an irrecoverable trench. 
 
