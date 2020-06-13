@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-![My helpful screenshot](https://media.licdn.com/dms/image/C5103AQEv3FGIBDz9Gw/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=JdsYhAq5ID4uSBvpRNIhcqbM9U4s1jlHVTIU46z5L58)
+![Sandeep](https://media-exp1.licdn.com/dms/image/C5103AQG0uuvUgpuelQ/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=GmDpOnFT9xng4WZ0n2S3qeKS--tW7-PeXTFeTqyp5wk)
 
-Hi! My name is Sandeep. I'm a web, mobile developer, and a machine learning person. I also do a bit of competitive programming.
+Hi! I'm Sandeep. I'm a web, mobile app developer, and a machine/deep learning person. I also do a bit of competitive programming.
 
 Quick Links: [Github](https://github.com/HelioStrike) 
 [LinkedIn](https://www.linkedin.com/in/sai-sandeep-mutyala/)
 [Kaggle](https://www.kaggle.com/heliostriker)
 [Medium](https://medium.com/@Cracin)
+[Codechef](hhttps://www.codechef.com/users/cerrax)
+[Codeforces](https://codeforces.com/profile/cerrax)
